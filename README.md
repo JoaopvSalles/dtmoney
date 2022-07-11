@@ -25,4 +25,3 @@
 <br />
 <br />
 **Resposta:** As principais tecnologias utilizadas neste projeto são ```React``` + ```Typescrit``` para criar toda a interface e suas funcionalidades, e a ```Biblioteca styled-componets``` para criar as estilizações e uma manutenção melhor que o CSS normal.
-##
