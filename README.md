@@ -14,14 +14,17 @@
 
 * 🛒  Adicione suas compras e vendas.
 * 💰  Tenha clareza de suas despesas.
-* 💸  Caulcule automaticamente e saiba se seu saldo está positivo ou negativo.
+* 💸  O cálculo automatizado mostrará se seu saldo está positivo ou negativo.
 
 <br />
 <br />
 <br />
 
-# :postbox: Perguntas frequentes
-**Pergunta:** Quais são as tecnologias utilizadas neste projeto? 
-<br />
-<br />
-**Resposta:** As principais tecnologias utilizadas neste projeto são ```React``` + ```Typescrit``` para criar toda a interface e suas funcionalidades, e a ```Biblioteca styled-componets``` para criar as estilizações e uma manutenção melhor que o CSS normal.
+# :gear: Tecnologias Utilizadas
+**Tecnologias:**
+```React```
+```Typescrit```
+
+**Bibliotecas:**
+```styled-componets```
+```axios```
