@@ -4,6 +4,8 @@
 > Calcule suas despesas com facilidade e clareza.
 <br />
 
+![Animação](https://user-images.githubusercontent.com/64203633/181090240-ffccffb3-8b68-491a-81fd-ce731e1cb32b.gif)
+
 ---
 
 <br />
