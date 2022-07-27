@@ -23,10 +23,8 @@
 <br />
 
 # :gear: Tecnologias Utilizadas
-**Tecnologias:**
+**Tecnologias & Bibliotecas:**
+<br />
 ```React```
 ```Typescrit```
-
-**Bibliotecas:**
 ```styled-componets```
-```axios```
