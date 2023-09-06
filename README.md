@@ -30,5 +30,8 @@
 ```React```
 ```Typescrit```
 ```styled-componets```
+```HTML```
+```CSS```
+```Javascript```
 
 <p align="right"><a href="#top">⬆</a></p>
